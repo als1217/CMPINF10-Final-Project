@@ -10,6 +10,9 @@ Team member’s names and email addresses:
   - My dataset includes Pittsburgh Bureau of Police crime incidents, and statistics regarding the crime.
     
   Sophie Schober (sls430@pitt.edu)
+   - Notebook: aq_analysis.ipnyb
+   - Dataset: GEOS-CF Atmospheric Composition Forecast https://data.wprdc.org/dataset/air-quality-forecast/resource/38e85e2d-26a9-4ae1-bcb9-d9feaceeab40
+   - My dataset includes NASA's predictions for the next five days for concentration of carbon monoxide, nitrogen dioxide and small particulate matter(PM25-RH35) in the air.
   
   Owen Lecky (oel8@pitt.edu)
 
